@@ -1,0 +1,3 @@
+period,n_observations,mean_traps_per_week,sd_traps,mean_positivity,sd_positivity,min_positivity,max_positivity,n_traps_50pct,n_traps_80pct,n_traps_95pct,n_traps_99pct,n_for_precision_5pct,n_for_precision_2pct
+Autumn,135,10.496455026455026,2.842967483752145,0.376425810157091,NA,0.376425810157091,0.376425810157091,2,4,7,10,361,2255
+Spring,135,10.62935492491048,2.8339991789370282,0.12154468378047001,NA,0.12154468378047001,0.12154468378047001,6,13,24,36,165,1026

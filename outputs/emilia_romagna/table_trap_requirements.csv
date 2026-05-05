@@ -1,0 +1,5 @@
+Detection_threshold,Autumn_traps,Spring_traps,Actual_ER
+50%,2,6,10
+80%,4,13,10
+95%,7,24,10
+99%,10,36,10
